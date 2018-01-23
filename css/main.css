@@ -9,7 +9,7 @@ body {
 }*/
 
 
-.championship, .champ-table, .footer {
+.championship, .champ-table, .footer, .mnu, .calendar {
 	background: url(../img/bg_texture.jpg) no-repeat top center;
 }
 
@@ -174,6 +174,9 @@ td {
     padding-top: 10px;
 }
 
+.champ-table, .calendar {
+	margin-top: -50px;
+}
 
 .first img {
 	display: inline-block;
@@ -196,6 +199,15 @@ td {
 
 .table-num tr td {
 	padding-top: 16px;
+}
+
+.calendar {
+	text-align: center;
+}
+
+.calendar img {
+	width: 100%;
+	margin-top: 10px;
 }
 
 
