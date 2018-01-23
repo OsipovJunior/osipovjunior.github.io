@@ -4,9 +4,9 @@ body {
 	font-family: 'PT Sans Caption', sans-serif;
 }
 
-/*.header, .offer {
+.header, .offer {
     height: 100vh;
-}*/
+}
 
 
 .championship, .champ-table, .footer {
