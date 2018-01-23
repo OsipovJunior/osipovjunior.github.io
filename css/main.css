@@ -1,0 +1,208 @@
+/* Specification */
+
+body {
+	font-family: 'PT Sans Caption', sans-serif;
+}
+
+.header, .offer {
+    height: 100vh;
+}
+
+
+.championship, .champ-table, .footer {
+	background: url(../img/bg_texture.jpg) no-repeat top center;
+}
+
+h1 {
+	font-family: 'Exo 2', sans-serif;
+	font-size: 100px;
+	color: #599ee1;
+	font-weight: 700;
+	padding-top: 320px;
+	padding-left: 50px;
+}
+
+h2 {
+	font-size: 35px;
+	color: #599ee1;
+	font-weight: 700;
+}
+
+ul, li {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+hr {
+	width: 330px;
+	height: 1px;
+	background-color: #d3d3d3;
+}
+
+/* Header */
+
+.header {
+	background-image: url(../img/bg_img.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: top center;
+	min-height: 100vh;
+}
+
+.menu {
+	margin-left: -1px;
+	margin-bottom: 0px;
+}
+
+.menu__item {
+	background: #303030;
+	height: 50px;
+	width: 168px;
+	border: 1px solid #fff;
+}
+
+.menu__item a {
+	font-size: 20px;
+	font-weight: 400;
+	color: #fff;
+	text-decoration: none;
+	padding: 0 10px;
+}
+
+.offer__intro {
+	font-size: 70px;
+	color: #f8ef07;
+	font-weight: 700;
+	letter-spacing: 0.08em;
+	padding-left: 250px;
+	margin-top: 20px;
+	margin-bottom: -40px;
+}
+
+.offer__text {
+	font-size: 57px;
+	color: #f8ef07;
+	letter-spacing: 0.08em;
+	padding-left: 250px;
+	margin-bottom: 190px;
+}
+
+.championship {
+	text-align: center;
+}
+
+.gradleft, .gradright {
+	margin-top: 80px;
+}
+
+.test {
+    padding-left: 15px;
+}
+
+.test2 {
+	padding-left: 0;
+}
+
+.info {
+	margin-top: 55px;
+}
+
+.info p {
+	font-size: 25px;
+	color: #599ee1;
+}
+
+.info__fifa {
+	font-family: 'Exo 2', sans-serif;
+	font-size: 35px;
+	color: #599ee1;
+	font-weight: 700;
+}
+
+.bg {
+	background: #f2f1f1;
+}
+
+th {
+	border: 2px solid #fff;
+	background: #6c7688;
+	color: #fff;
+	margin-bottom: 5px;
+}
+
+td {
+	border: 2px solid #fff;
+	background: #fff8c3;
+	color: #fff;
+	margin-bottom: 5px;
+	color: #599ee1;
+}
+
+.content-part {
+	padding-top: 10px;
+}
+
+.table-part {
+	padding-top: 40px;
+}
+
+.table-part hr {
+	width: 100%;
+	height: 20px;
+	background-color: #d3d3d3;
+	border: none;
+	margin-top: 0px;
+}
+
+.table-num tr th, .table-num tr td {
+    text-align: center;
+}
+
+.table-num tr th:nth-child(1) {
+	width: 80px;
+	text-align: left;
+}
+
+.table-num tr th:nth-child(2) {
+	width: 421px;
+	text-align: left;
+}
+
+.table-num tr td:nth-child(2) {
+    text-align: left;
+    padding-top: 10px;
+}
+
+
+.first img {
+	display: inline-block;
+	width: 30px;
+	height: auto;
+	margin: 0 10px 0px 10px;
+	text-align: center;
+}
+
+.first p {
+	display: inline-block;
+	margin: 5px 0px 0px 0px;
+}
+
+.footer img {
+	margin-top: -16px;
+	width: 100%;
+	height: auto;
+}
+
+.table-num tr td {
+	padding-top: 16px;
+}
+
+
+
+
+
+
+
+
+
