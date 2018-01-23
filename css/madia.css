@@ -39,8 +39,8 @@
 	}
 
 	.info__fifa {
-	    font-size: 35px;
-	    font-weight: 700;
+		font-size: 35px;
+		font-weight: 700;
 	}
 
 	.info p {
@@ -71,6 +71,15 @@
 
 	.content-part {
 		padding-top: 5px;
+	}
+
+	.body-content {
+		max-width: 100%;
+		overflow: auto;
+	}
+
+	.first p {
+		
 	}
 
 	

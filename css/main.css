@@ -201,8 +201,8 @@ td {
 
 .first img {
 	display: inline-block;
-	width: 30px;
-	height: auto;
+	width: auto;
+	height: 30px;
 	margin: 0 10px 0px 10px;
 	text-align: center;
 }
