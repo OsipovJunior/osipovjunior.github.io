@@ -240,3 +240,26 @@ td {
 
 
 
+.black {
+	background: black;
+}
+
+#test-qwerty {
+	text-align: center;
+	font-size: 40px;
+}
+
+#test-qwerty button {
+	background: red;
+}
+
+.shakhtar {
+	background: black;
+	color: orange;
+	margin-top: 20px;
+}
+
+
+
+
+
