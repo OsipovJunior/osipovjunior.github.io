@@ -1,4 +1,4 @@
-new Vue ({
+/*new Vue ({
 	el: '#test-qwerty',
 	data: {
 		title: "",
@@ -9,4 +9,4 @@ new Vue ({
 			this.title = 'Шахтер - Чемпион :)'
 		}
 	}
-});
+});*/

@@ -18,7 +18,7 @@ h1 {
 	font-size: 100px;
 	color: #599ee1;
 	font-weight: 700;
-	padding-top: 320px;
+	padding-top: 40px;
 	padding-left: 50px;
 }
 
@@ -259,6 +259,12 @@ td {
 	margin-top: 20px;
 }
 
+.logo img {
+	height: 300px;
+	width: auto;
+	padding-top: 0px;
+	padding-left: 100px;
+}
 
 
 
