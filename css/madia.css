@@ -78,8 +78,11 @@
 		overflow: auto;
 	}
 
-	.first p {
-		
+	.logo img {
+		height: 200px;
+		width: auto;
+		padding-left: 50px;
+		padding-top: 30px;
 	}
 
 	
